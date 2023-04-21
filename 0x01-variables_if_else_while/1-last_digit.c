@@ -1,11 +1,10 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 
 /**
- * main - Entry point
- * Description: 'get the last digit of a number'
- * Return: Always 0 (success)
+ * main - Prints the last digit of the number.
+ * Return: always 0 (success)
  */
 int main(void)
 {
