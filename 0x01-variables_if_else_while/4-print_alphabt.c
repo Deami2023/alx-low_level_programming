@@ -1,8 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - Entry point 
- * Deacription: 'prints the alphabet without q and e'
- * Return: Always 0 (success)
+ * main - Prints the alphabet without q and e.
+ * Return: always 0 (success)
  */
 int main(void)
 {
